@@ -1,10 +1,10 @@
 # Family Networks
 
-This R code makes family networks using the naming convention used in the Philippines and set forth in Cruz, Labonne, and Querubin (2016) & Querubin (2011).
+This R code makes family networks using the naming convention used in the Philippines and set forth in [Cruz, Labonne, and Querubin (2016)](http://cesicruz.com/papers/FamilyNetworksCLQ.pdf) & [Querubin (2011)](https://sites.google.com/site/pabloquerubin/research/Querubin_Term_Limits.pdf?attredirects=0).
 
 ## Rules
 
-It is possible to approximate actual family networks in the Philippines is possible because of strict patterns of name inheritance. 
+It is possible to approximate actual family networks in the Philippines because of strict patterns of name inheritance. Everyone has is born with a given name and two surnames--their mother and father's family names. When women marry, they take their husband's family name (the husband's father's family name).
 
 ## Functions
 I provide three functions for constructing different types of networks. 
@@ -17,6 +17,6 @@ I provide three functions for constructing different types of networks.
 
 ## References
 
-Cruz, Cesi, Julien Labonne, and Pablo Querubin (2016). “Politician Family Networks and Electoral Outcomes”. In: *Working Paper*.
+Cruz, Cesi, Julien Labonne, and Pablo Querubin (2016). “Politician Family Networks and Electoral Outcomes”. Revise and Resubmit at *American Economic Review*.
 
-Querubin, Pablo (2011). “Political Reform and Elite Persistence: Term Limits and Political Dynasties in the Philippines”. In: *Working paper*.
+Querubin, Pablo (2011). “Political Reform and Elite Persistence: Term Limits and Political Dynasties in the Philippines”. *Working paper*.
