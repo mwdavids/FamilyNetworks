@@ -9,11 +9,11 @@ It is possible to approximate actual family networks in the Philippines because 
 ## Functions
 I provide three functions for constructing different types of networks. 
 
-  *buildFamilyNetwork_Ind* builds *individual* level networks, meaning that individuals are the nodes in the network.
+  - *buildFamilyNetwork_Ind* builds *individual* level networks, meaning that individuals are the nodes in the network.
   
-  *buildFamilyNetwork_Fam* builds *family* level networks, so that each family name is a node in the network.
+  - *buildFamilyNetwork_Fam* builds *family* level networks, so that each family name is a node in the network.
   
-  *buildFamilyNetwork_Community* builds *community* level networks. Communities, such as barangay, are the nodes in the network and relations between individuals in the different communities determine the presence or absence, and strength of ties between them.
+  - *buildFamilyNetwork_Community* builds *community* level networks. Communities, such as barangay, are the nodes in the network and relations between individuals in the different communities determine the presence or absence, and strength of ties between them.
 
 ## Installation
 To install the current version of FamilyNetworks, run the following code.
