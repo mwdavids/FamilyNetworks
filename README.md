@@ -30,3 +30,7 @@ Cruz, Cesi, Julien Labonne, and Pablo Querubin (2016). “Politician Family Netw
 Querubin, Pablo (2011). “Political Reform and Elite Persistence: Term Limits and Political Dynasties in the Philippines”. *Working paper*.
 
 ![alt tag](http://pages.ucsd.edu/~mwdavids/img/Bon-Ot.png)
+
+<p align="right">
+  <img src="http://pages.ucsd.edu/~mwdavids/img/Bon-Ot.png" width="350"/>
+</p>
