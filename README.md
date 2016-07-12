@@ -2,7 +2,7 @@
 
 <img align="right" src="http://pages.ucsd.edu/~mwdavids/img/Bon-Ot.png" width=250>
 
-This R code makes family networks using the naming convention used in the Philippines and set forth in [Cruz, Labonne, and Querubin (2016)](http://cesicruz.com/papers/FamilyNetworksCLQ.pdf) & [Querubin (2011)](https://sites.google.com/site/pabloquerubin/research/Querubin_Term_Limits.pdf?attredirects=0).
+R package for constructing family networks following the naming convention used in the Philippines. This method is used and described in [Cruz, Labonne, and Querubin (2016)](http://cesicruz.com/papers/FamilyNetworksCLQ.pdf) & [Querubin (2011)](https://sites.google.com/site/pabloquerubin/research/Querubin_Term_Limits.pdf?attredirects=0).
 
 ## Rules
 
