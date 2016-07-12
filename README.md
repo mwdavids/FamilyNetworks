@@ -1,5 +1,9 @@
 # Family Networks
 
+<p align="right">
+  <img src="http://pages.ucsd.edu/~mwdavids/img/Bon-Ot.png" width="350"/>
+</p>
+
 This R code makes family networks using the naming convention used in the Philippines and set forth in [Cruz, Labonne, and Querubin (2016)](http://cesicruz.com/papers/FamilyNetworksCLQ.pdf) & [Querubin (2011)](https://sites.google.com/site/pabloquerubin/research/Querubin_Term_Limits.pdf?attredirects=0).
 
 ## Rules
@@ -28,9 +32,3 @@ install_github("mwdavids/FamilyNetworks")
 Cruz, Cesi, Julien Labonne, and Pablo Querubin (2016). “Politician Family Networks and Electoral Outcomes”. Revise and Resubmit at *American Economic Review*.
 
 Querubin, Pablo (2011). “Political Reform and Elite Persistence: Term Limits and Political Dynasties in the Philippines”. *Working paper*.
-
-![alt tag](http://pages.ucsd.edu/~mwdavids/img/Bon-Ot.png)
-
-<p align="right">
-  <img src="http://pages.ucsd.edu/~mwdavids/img/Bon-Ot.png" width="350"/>
-</p>
