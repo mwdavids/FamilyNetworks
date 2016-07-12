@@ -6,7 +6,7 @@ This R code makes family networks using the naming convention used in the Philip
 
 ## Rules
 
-It is possible to approximate actual family networks in the Philippines because of strict patterns of name inheritance. Everyone has is born with a given name and two surnames--their mother and father's family names. When women marry, they take their husband's family name (the husband's father's family name).
+It is possible to approximate actual family networks in the Philippines because of strict patterns of name inheritance. Everyone is born with a given (first) name and two surnames--their mother and father's family names (which in turn came from their fathers). When women marry, they take their husband's family name (the husband's father's family name) and retain their father's family name.
 
 ## Functions
 I provide three functions for constructing different types of networks. 
