@@ -1,0 +1,9 @@
+Package: familyNetworks
+Type: Package
+Title: Build Family Networks with Philippines' Naming Convention
+Version: 1.0
+Date: 2016-02-20
+Authors@R: person("Michael W Davidson", role=c("aut", "cre"), email="mwdavidson@ucsd.edu")
+Maintainer: Michael Davidson <mwdavidson@ucsd.edu>
+Description: Builds various types of inter-marriage networks (individual, family and community-levels) by exploiting Philippines name inheritance conventions.
+License: GPL-2
