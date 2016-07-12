@@ -16,6 +16,8 @@ I provide three functions for constructing different types of networks.
   *buildFamilyNetwork_Community* builds *community* level networks. Communities, such as barangay, are the nodes in the network and relations between individuals in the different communities determine the presence or absence, and strength of ties between them.
 
 ## Installation
+To install the current version of FamilyNetworks, run the following code.
+
 ```R
 library(devtools)
 install_github("mwdavids/FamilyNetworks")
