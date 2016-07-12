@@ -28,3 +28,5 @@ install_github("mwdavids/FamilyNetworks")
 Cruz, Cesi, Julien Labonne, and Pablo Querubin (2016). “Politician Family Networks and Electoral Outcomes”. Revise and Resubmit at *American Economic Review*.
 
 Querubin, Pablo (2011). “Political Reform and Elite Persistence: Term Limits and Political Dynasties in the Philippines”. *Working paper*.
+
+![alt tag](http://pages.ucsd.edu/~mwdavids/img/Bon-Ot.png)
